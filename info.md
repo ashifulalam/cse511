@@ -22,4 +22,8 @@
 
 ---
 
+## 📁 Google Drive — Project Folder
 
+🔗 **Link:** [Open Google Drive](https://drive.google.com/drive/u/1/folders/1C2l3frVppNzuqgqCGo5-4l-fMbrjVTiz)
+
+---
